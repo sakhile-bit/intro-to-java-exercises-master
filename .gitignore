@@ -1,0 +1,11 @@
+.DS_Store
+*.class
+*.txt
+*.gif
+*.png
+*.wav
+*.mp3
+*.dat
+*.utf
+*.jpg
+Thumbs.db
